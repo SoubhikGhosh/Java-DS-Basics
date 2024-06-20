@@ -4,6 +4,8 @@ import java.util.LinkedList;
 
 public class MiddleElement {
     public MiddleElement(){
+        System.out.println("______________MIDDLE ELEMENT IN LINKED LIST_____________");
+
         LinkedList<Integer> list = new LinkedList<>();
 
         // Add elements to the list
